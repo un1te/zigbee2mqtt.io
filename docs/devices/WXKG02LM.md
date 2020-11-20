@@ -30,6 +30,12 @@ devices:
     legacy: false
 ```
 
+# Actions available for automations:
+single_right, double_right, hold_right
+single_left, double_left, hold_left
+single_both, double_both, hold_both
+
+
 
 ### Pairing
 Press and hold the button on the device for +- 10 seconds
